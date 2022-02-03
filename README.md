@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### hello world
+nama saya marwanto,
+saya penulis dari blog https://www.marwanto606.com
+saya tertarik dan sedang mempelajari bebrapa ilmu seperti web programing serta SEO,
+salam kenal :wave:
 <!--
 **marwanto606/marwanto606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
