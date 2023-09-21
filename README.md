@@ -12,7 +12,6 @@
 - https://youtube.com/@marwanto606
 - https://www.twitch.tv/marwanto606
 - https://soundcloud.com/marwanto606
-- https://www.kaggle.com/marwanto606
 - https://www.behance.net/marwanto606
 - https://karyakarsa.com/marwanto606
 - https://playgroundai.com/profile/clf56yzal02ucs601vo3s2gqk
