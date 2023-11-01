@@ -31,6 +31,7 @@
 - https://link.marwanto606.com/provenexpert
 - https://link.marwanto606.com/postman
 - https://link.marwanto606.com/mpage
+- https://link.marwanto606.com/gnews
 - etc.
 
 ### my other domains
