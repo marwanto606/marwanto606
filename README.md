@@ -19,6 +19,7 @@
 - https://link.marwanto606.com/deviantart
 - https://link.marwanto606.com/tumblr
 - https://link.marwanto606.com/playgroundai
+- https://link.marwanto606.com/playground
 - https://link.marwanto606.com/civitai
 - https://link.marwanto606.com/disqus
 - https://link.marwanto606.com/devto
