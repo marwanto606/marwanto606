@@ -23,6 +23,7 @@
 - https://link.marwanto606.com/blogger
 - https://link.marwanto606.com/linktree
 - https://link.marwanto606.com/moddb
+- https://link.marwanto606.com/huggingface
 - etc.
 
 ### my other domains
