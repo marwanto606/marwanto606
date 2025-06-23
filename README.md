@@ -28,4 +28,4 @@
 - https://hash.marwanto606.com
 - https://skema.marwanto606.com
 - https://stock.marwanto606.com
-- https://shopee.marwanto606.com
+- https://stockporto.marwanto606.com
