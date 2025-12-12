@@ -28,4 +28,7 @@
 - https://skema.marwanto606.com
 - https://stock.marwanto606.com
 - https://stockporto.marwanto606.com
+
+### Build using Lovable
 - https://imgkey.lovable.app
+- https://alatku.lovable.app
