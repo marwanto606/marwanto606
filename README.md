@@ -25,7 +25,7 @@
 - https://gallery.marwanto606.com
 - https://game.marwanto606.com
 - https://skema.marwanto606.com
-- https://stock.marwanto606.com
+- https://microstock.marwanto606.com
 - https://stockmozai.marwanto606.com
 - https://stockporto.marwanto606.com
 - https://yt.marwanto606.com
