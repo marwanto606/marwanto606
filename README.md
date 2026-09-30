@@ -28,7 +28,7 @@
 - https://microstock.marwanto606.com
 - https://stockmozai.marwanto606.com
 - https://stockporto.marwanto606.com
-- https://yt.marwanto606.com
+- https://video.marwanto606.com
 
 ### Build using Lovable
 - https://imgkey.lovable.app
